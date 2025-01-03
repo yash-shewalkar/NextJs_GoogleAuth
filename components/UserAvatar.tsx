@@ -11,4 +11,5 @@ export default async function UserAvatar() {
       
     </div>
   )
-}
+  
+} 
